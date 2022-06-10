@@ -1,0 +1,6 @@
+2022/03/03-14:44:28.818 c9fde Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb since it was missing.
+2022/03/03-14:44:28.837 c9fde Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/03-14:44:31.690 c9fde Level-0 table #5: started
+2022/03/03-14:44:31.693 c9fde Level-0 table #5: 3293 bytes OK
+2022/03/03-14:44:31.698 c9fde Delete type=0 #3
+2022/03/03-14:44:31.698 c9fde Manual compaction at level-0 from (begin) .. (end); will stop at (end)

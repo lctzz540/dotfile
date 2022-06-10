@@ -1,0 +1,18 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CodeCompletion.html" value="1644382786015" />
+        <entry key="CodeCompletionInSearch.html" value="1644382785286" />
+        <entry key="ColumnSelection.html" value="1644382782831" />
+        <entry key="HorizontalScrolling.html" value="1644382779103" />
+        <entry key="LayoutCode.html" value="1644382785407" />
+        <entry key="LensMode.html" value="1644382785583" />
+        <entry key="RefactorThis.html" value="1644382783417" />
+        <entry key="RichTextCopy.html" value="1644382785116" />
+        <entry key="SmartTypeCompletion.html" value="1644382784007" />
+        <entry key="local_history.html" value="1644382784624" />
+      </map>
+    </option>
+  </component>
+</application>

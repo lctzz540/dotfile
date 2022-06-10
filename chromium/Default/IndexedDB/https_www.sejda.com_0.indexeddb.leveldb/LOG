@@ -1,0 +1,6 @@
+2022/05/25-15:03:25.485 22e8b Creating DB /home/w/.config/chromium/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb since it was missing.
+2022/05/25-15:03:25.494 22e8b Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/25-15:22:19.010 e3044 Level-0 table #5: started
+2022/05/25-15:22:19.012 e3044 Level-0 table #5: 1323 bytes OK
+2022/05/25-15:22:19.017 e3044 Delete type=0 #3
+2022/05/25-15:22:19.017 e3044 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

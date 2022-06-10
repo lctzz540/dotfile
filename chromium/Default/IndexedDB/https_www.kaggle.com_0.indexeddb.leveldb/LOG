@@ -1,0 +1,15 @@
+2022/06/02-16:43:33.733 3a1ace Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/02-16:43:33.733 3a1ace Recovering log #4
+2022/06/02-16:43:33.733 3a1ace Reusing old log /home/w/.config/chromium/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000004.log 
+2022/06/02-16:44:06.014 3dd1dc Level-0 table #8: started
+2022/06/02-16:44:06.017 3dd1dc Level-0 table #8: 9658 bytes OK
+2022/06/02-16:44:06.022 3dd1dc Delete type=0 #4
+2022/06/02-16:44:06.023 3dd1dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/02-16:44:06.023 3dd1dc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01@\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x002\x006\x000\x00r\x00H\x00H\x00E\x00e\x00M\x00V\x00D\x00G\x00V\x00q\x00y\x00W\x00q\x000\x00y\x00s\x00z\x00m\x00L\x00J\x00-\x005\x00C\x00g\x00k\x00q\x00r\x00k\x00:\x00G\x00l\x00o\x00b\x00a\x00l' @ 115 : 1
+2022/06/02-16:44:06.023 3dd1dc Compacting 1@1 + 1@2 files
+2022/06/02-16:44:06.027 3dd1dc Generated table #9@1: 21 keys, 2139 bytes
+2022/06/02-16:44:06.027 3dd1dc Compacted 1@1 + 1@2 files => 2139 bytes
+2022/06/02-16:44:06.031 3dd1dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/02-16:44:06.032 3dd1dc Delete type=2 #5
+2022/06/02-16:44:06.032 3dd1dc Delete type=2 #8
+2022/06/02-16:44:06.032 3dd1dc Manual compaction at level-1 from '\x00\x01\x01\x02\x01@\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x002\x006\x000\x00r\x00H\x00H\x00E\x00e\x00M\x00V\x00D\x00G\x00V\x00q\x00y\x00W\x00q\x000\x00y\x00s\x00z\x00m\x00L\x00J\x00-\x005\x00C\x00g\x00k\x00q\x00r\x00k\x00:\x00G\x00l\x00o\x00b\x00a\x00l' @ 115 : 1 .. (end); will stop at (end)

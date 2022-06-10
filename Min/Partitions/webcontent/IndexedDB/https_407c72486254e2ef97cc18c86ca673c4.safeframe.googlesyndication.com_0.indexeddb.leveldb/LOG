@@ -1,0 +1,6 @@
+2022/03/02-20:08:00.138 187655 Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_407c72486254e2ef97cc18c86ca673c4.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2022/03/02-20:08:00.183 187655 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_407c72486254e2ef97cc18c86ca673c4.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/02-20:09:00.561 2a14c5 Level-0 table #5: started
+2022/03/02-20:09:00.564 2a14c5 Level-0 table #5: 480 bytes OK
+2022/03/02-20:09:00.568 2a14c5 Delete type=0 #3
+2022/03/02-20:09:00.569 2a14c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

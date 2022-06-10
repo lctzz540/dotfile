@@ -1,0 +1,6 @@
+2022/05/29-15:08:08.077 1b9f26 Creating DB /home/w/.config/chromium/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb since it was missing.
+2022/05/29-15:08:08.089 1b9f26 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/29-15:08:41.072 1b9f26 Level-0 table #5: started
+2022/05/29-15:08:41.076 1b9f26 Level-0 table #5: 31215 bytes OK
+2022/05/29-15:08:41.080 1b9f26 Delete type=0 #3
+2022/05/29-15:08:41.080 1b9f26 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

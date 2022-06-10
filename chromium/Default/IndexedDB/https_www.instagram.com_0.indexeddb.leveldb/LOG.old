@@ -1,0 +1,6 @@
+2022/06/01-19:08:02.086 dbf2a Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/01-19:08:02.086 dbf2a Recovering log #3
+2022/06/01-19:08:02.117 dbf2a Reusing old log /home/w/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2022/06/01-19:27:03.866 144d9e Level-0 table #5: started
+2022/06/01-19:27:03.877 144d9e Level-0 table #5: 623103 bytes OK
+2022/06/01-19:27:03.884 144d9e Delete type=0 #3

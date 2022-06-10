@@ -1,0 +1,6 @@
+2022/02/16-14:34:50.396 12457e Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_a.teads.tv_0.indexeddb.leveldb since it was missing.
+2022/02/16-14:34:50.407 12457e Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_a.teads.tv_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/16-14:34:56.800 10f6b4 Level-0 table #5: started
+2022/02/16-14:34:56.803 10f6b4 Level-0 table #5: 371 bytes OK
+2022/02/16-14:34:56.807 10f6b4 Delete type=0 #3
+2022/02/16-14:34:56.808 10f6b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2022/06/08-13:42:04.258 189244 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/08-13:42:04.258 189244 Recovering log #3
+2022/06/08-13:42:04.259 189244 Reusing old log /home/w/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
+2022/06/08-15:15:11.225 27352 Level-0 table #5: started
+2022/06/08-15:15:11.228 27352 Level-0 table #5: 7922 bytes OK
+2022/06/08-15:15:11.233 27352 Delete type=0 #3
+2022/06/08-15:15:11.233 27352 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

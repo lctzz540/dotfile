@@ -1,0 +1,32 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Jetplan_project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Jetplan_javafx – Jetplan_javafx.iml" projectWorkspaceId="24rJSMSDil2mk7X3cvzKagBQcIQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.6777.52" />
+              <option name="buildTimestamp" value="1643341623617" />
+              <frame x="970" y="36" width="926" height="1020" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1644382772106" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Jetplan">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="24s8wyyfbbFZRTm5mOTFCgPQPNJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.6777.52" />
+              <option name="buildTimestamp" value="1643341661653" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1644408179202" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents" />
+  </component>
+</application>

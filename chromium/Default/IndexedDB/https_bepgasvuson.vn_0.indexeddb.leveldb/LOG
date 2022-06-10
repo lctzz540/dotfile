@@ -1,0 +1,18 @@
+2022/05/21-20:07:59.018 3bca9f Creating DB /home/w/.config/chromium/Default/IndexedDB/https_bepgasvuson.vn_0.indexeddb.leveldb since it was missing.
+2022/05/21-20:07:59.027 3bca9f Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_bepgasvuson.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/21-20:07:59.906 3cfcd5 Level-0 table #5: started
+2022/05/21-20:07:59.909 3cfcd5 Level-0 table #5: 572 bytes OK
+2022/05/21-20:07:59.915 3cfcd5 Delete type=0 #3
+2022/05/21-20:07:59.916 3cfcd5 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/21-20:08:01.915 3bca9f Level-0 table #7: started
+2022/05/21-20:08:01.918 3bca9f Level-0 table #7: 256 bytes OK
+2022/05/21-20:08:01.922 3bca9f Delete type=0 #4
+2022/05/21-20:08:01.923 3bca9f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/21-20:08:01.923 3bca9f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2022/05/21-20:08:01.923 3bca9f Compacting 1@1 + 1@2 files
+2022/05/21-20:08:01.926 3bca9f Generated table #8@1: 6 keys, 253 bytes
+2022/05/21-20:08:01.926 3bca9f Compacted 1@1 + 1@2 files => 253 bytes
+2022/05/21-20:08:01.930 3bca9f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/21-20:08:01.930 3bca9f Delete type=2 #5
+2022/05/21-20:08:01.930 3bca9f Delete type=2 #7
+2022/05/21-20:08:01.930 3bca9f Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

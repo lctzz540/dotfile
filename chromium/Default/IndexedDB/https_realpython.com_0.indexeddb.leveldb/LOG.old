@@ -1,0 +1,6 @@
+2022/05/20-17:32:18.724 129f2e Creating DB /home/w/.config/chromium/Default/IndexedDB/https_realpython.com_0.indexeddb.leveldb since it was missing.
+2022/05/20-17:32:18.733 129f2e Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_realpython.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/20-17:32:28.346 164abe Level-0 table #5: started
+2022/05/20-17:32:28.349 164abe Level-0 table #5: 5494 bytes OK
+2022/05/20-17:32:28.354 164abe Delete type=0 #3
+2022/05/20-17:32:28.354 164abe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

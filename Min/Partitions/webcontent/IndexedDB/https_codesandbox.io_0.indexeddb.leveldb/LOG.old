@@ -1,0 +1,6 @@
+2022/02/21-01:02:29.488 189ec4 Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb since it was missing.
+2022/02/21-01:02:29.498 189ec4 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/21-01:02:34.872 186cfd Level-0 table #5: started
+2022/02/21-01:02:34.874 186cfd Level-0 table #5: 1676 bytes OK
+2022/02/21-01:02:34.879 186cfd Delete type=0 #3
+2022/02/21-01:02:34.879 186cfd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

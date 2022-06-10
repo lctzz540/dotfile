@@ -1,0 +1,6 @@
+2022/02/12-16:53:54.730 5a5b3 Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_developers-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb since it was missing.
+2022/02/12-16:53:54.740 5a5b3 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_developers-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/12-17:10:20.389 fb0f5 Level-0 table #5: started
+2022/02/12-17:10:20.391 fb0f5 Level-0 table #5: 1286 bytes OK
+2022/02/12-17:10:20.396 fb0f5 Delete type=0 #3
+2022/02/12-17:10:20.396 fb0f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

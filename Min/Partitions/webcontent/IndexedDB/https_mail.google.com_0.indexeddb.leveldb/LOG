@@ -1,0 +1,6 @@
+2022/02/11-22:16:58.706 2d32fc Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2022/02/11-22:16:58.714 2d32fc Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/11-22:51:26.846 124435 Level-0 table #5: started
+2022/02/11-22:51:26.853 124435 Level-0 table #5: 620861 bytes OK
+2022/02/11-22:51:26.858 124435 Delete type=0 #3
+2022/02/11-22:51:26.858 124435 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

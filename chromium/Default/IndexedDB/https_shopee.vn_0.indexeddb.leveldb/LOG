@@ -1,0 +1,18 @@
+2022/05/21-18:17:45.819 f1c9e Creating DB /home/w/.config/chromium/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb since it was missing.
+2022/05/21-18:17:45.830 f1c9e Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/21-18:17:46.089 f1ca0 Level-0 table #5: started
+2022/05/21-18:17:46.093 f1ca0 Level-0 table #5: 615 bytes OK
+2022/05/21-18:17:46.100 f1ca0 Delete type=0 #3
+2022/05/21-18:17:46.100 f1ca0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/21-18:17:50.705 f1ca0 Level-0 table #7: started
+2022/05/21-18:17:50.708 f1ca0 Level-0 table #7: 7158 bytes OK
+2022/05/21-18:17:50.713 f1ca0 Delete type=0 #4
+2022/05/21-18:17:50.713 f1ca0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/21-18:17:50.713 f1ca0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x02\x02\x01\x1b\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00s\x00e\x00s\x00s\x00i\x00o\x00n\x00:\x00:\x00U\x00B\x00T\x00T\x00r\x00a\x00c\x00k\x00e\x00r' @ 227 : 1
+2022/05/21-18:17:50.713 f1ca0 Compacting 1@1 + 1@2 files
+2022/05/21-18:17:50.716 f1ca0 Generated table #8@1: 58 keys, 3710 bytes
+2022/05/21-18:17:50.716 f1ca0 Compacted 1@1 + 1@2 files => 3710 bytes
+2022/05/21-18:17:50.720 f1ca0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/21-18:17:50.720 f1ca0 Delete type=2 #5
+2022/05/21-18:17:50.720 f1ca0 Delete type=2 #7
+2022/05/21-18:17:50.721 f1ca0 Manual compaction at level-1 from '\x00\x03\x02\x02\x01\x1b\x00c\x00u\x00r\x00r\x00e\x00n\x00t\x00_\x00s\x00e\x00s\x00s\x00i\x00o\x00n\x00:\x00:\x00U\x00B\x00T\x00T\x00r\x00a\x00c\x00k\x00e\x00r' @ 227 : 1 .. (end); will stop at (end)

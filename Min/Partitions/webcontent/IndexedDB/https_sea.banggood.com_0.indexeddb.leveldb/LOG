@@ -1,0 +1,6 @@
+2022/02/14-17:02:56.794 21f984 Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_sea.banggood.com_0.indexeddb.leveldb since it was missing.
+2022/02/14-17:02:56.803 21f984 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_sea.banggood.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/14-17:03:58.621 18924a Level-0 table #5: started
+2022/02/14-17:03:58.624 18924a Level-0 table #5: 16937 bytes OK
+2022/02/14-17:03:58.629 18924a Delete type=0 #3
+2022/02/14-17:03:58.629 18924a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/03/18-16:08:47.199 109b3 Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_hocluat.vn_0.indexeddb.leveldb since it was missing.
+2022/03/18-16:08:47.207 109b3 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_hocluat.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/18-16:10:24.258 2f1e02 Level-0 table #5: started
+2022/03/18-16:10:24.261 2f1e02 Level-0 table #5: 5836 bytes OK
+2022/03/18-16:10:24.265 2f1e02 Delete type=0 #3
+2022/03/18-16:10:24.266 2f1e02 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

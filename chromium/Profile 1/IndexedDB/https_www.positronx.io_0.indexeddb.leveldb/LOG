@@ -1,0 +1,6 @@
+2022/01/26-18:03:13.017 4743 Creating DB /home/w/.config/chromium/Profile 1/IndexedDB/https_www.positronx.io_0.indexeddb.leveldb since it was missing.
+2022/01/26-18:03:13.028 4743 Reusing MANIFEST /home/w/.config/chromium/Profile 1/IndexedDB/https_www.positronx.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/26-18:03:16.176 4749 Level-0 table #5: started
+2022/01/26-18:03:16.185 4749 Level-0 table #5: 574 bytes OK
+2022/01/26-18:03:16.195 4749 Delete type=0 #3
+2022/01/26-18:03:16.196 4749 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

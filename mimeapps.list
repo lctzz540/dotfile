@@ -1,0 +1,15 @@
+[Default Applications]
+application/pdf=org.pwmt.zathura.desktop
+text/html=min.desktop
+x-scheme-handler/http=min.desktop
+x-scheme-handler/https=min.desktop
+x-scheme-handler/about=min.desktop
+x-scheme-handler/unknown=min.desktop
+
+[Added Associations]
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=org.pwmt.zathura.desktop;
+text/x-csrc=nvim.desktop;codeblocks.desktop;
+text/plain=geany.desktop;nvim.desktop;
+image/jpeg=feh.desktop;
+application/pdf=wps-office-pdf.desktop;
+application/x-shellscript=nvim.desktop;

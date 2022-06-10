@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"isolation":[],"network_stats":{"srtt":4084},"server":"https://r2---sn-42u-nboee.gvt1.com"},{"isolation":[],"server":"https://redirector.gvt1.com","supports_spdy":true}],"supports_quic":{"address":"2405:4802:90b1:d760:9278:41ff:fe46:c274","used_quic":true},"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}

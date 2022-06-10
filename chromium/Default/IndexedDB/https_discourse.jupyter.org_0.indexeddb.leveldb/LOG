@@ -1,0 +1,6 @@
+2022/06/02-15:35:29.692 1d9050 Creating DB /home/w/.config/chromium/Default/IndexedDB/https_discourse.jupyter.org_0.indexeddb.leveldb since it was missing.
+2022/06/02-15:35:29.703 1d9050 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_discourse.jupyter.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/02-15:36:03.100 20d873 Level-0 table #5: started
+2022/06/02-15:36:03.102 20d873 Level-0 table #5: 2813 bytes OK
+2022/06/02-15:36:03.107 20d873 Delete type=0 #3
+2022/06/02-15:36:03.107 20d873 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

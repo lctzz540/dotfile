@@ -1,0 +1,6 @@
+2022/06/01-15:58:22.739 2906a4 Creating DB /home/w/.config/chromium/Default/IndexedDB/https_f2vr0.csb.app_0.indexeddb.leveldb since it was missing.
+2022/06/01-15:58:22.749 2906a4 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_f2vr0.csb.app_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/01-16:16:03.827 306433 Level-0 table #5: started
+2022/06/01-16:16:03.830 306433 Level-0 table #5: 15124 bytes OK
+2022/06/01-16:16:03.835 306433 Delete type=0 #3
+2022/06/01-16:16:03.835 306433 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

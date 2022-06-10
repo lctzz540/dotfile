@@ -1,0 +1,6 @@
+2022/05/29-13:23:04.142 3899b0 Creating DB /home/w/.config/chromium/Default/IndexedDB/https_hoanghamobile.com_0.indexeddb.leveldb since it was missing.
+2022/05/29-13:23:04.152 3899b0 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_hoanghamobile.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/29-13:23:55.709 3a338f Level-0 table #5: started
+2022/05/29-13:23:55.712 3a338f Level-0 table #5: 7265 bytes OK
+2022/05/29-13:23:55.716 3a338f Delete type=0 #3
+2022/05/29-13:23:55.716 3a338f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

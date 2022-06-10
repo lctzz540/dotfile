@@ -1,0 +1,18 @@
+2022/05/03-21:34:57.728 10cfc9 Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_www.wps.com_0.indexeddb.leveldb since it was missing.
+2022/05/03-21:34:57.737 10cfc9 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_www.wps.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/03-21:34:57.841 1d3b2 Level-0 table #5: started
+2022/05/03-21:34:57.843 1d3b2 Level-0 table #5: 710 bytes OK
+2022/05/03-21:34:57.848 1d3b2 Delete type=0 #3
+2022/05/03-21:34:57.848 1d3b2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/03-21:35:05.906 10cfc9 Level-0 table #7: started
+2022/05/03-21:35:05.909 10cfc9 Level-0 table #7: 5878 bytes OK
+2022/05/03-21:35:05.913 10cfc9 Delete type=0 #4
+2022/05/03-21:35:05.913 10cfc9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/03-21:35:05.914 10cfc9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x009\x005\x007\x009\x004\x007\x007\x001\x009\x008\x004\x00:\x00w\x00e\x00b\x00:\x002\x005\x002\x00f\x008\x000\x004\x009\x00f\x008\x00b\x003\x001\x001\x00a\x00b\x001\x00c\x00f\x00a\x009\x005' @ 54 : 1
+2022/05/03-21:35:05.914 10cfc9 Compacting 1@1 + 1@2 files
+2022/05/03-21:35:05.916 10cfc9 Generated table #8@1: 21 keys, 1290 bytes
+2022/05/03-21:35:05.916 10cfc9 Compacted 1@1 + 1@2 files => 1290 bytes
+2022/05/03-21:35:05.921 10cfc9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/03-21:35:05.921 10cfc9 Delete type=2 #5
+2022/05/03-21:35:05.921 10cfc9 Delete type=2 #7
+2022/05/03-21:35:05.921 10cfc9 Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x009\x005\x007\x009\x004\x007\x007\x001\x009\x008\x004\x00:\x00w\x00e\x00b\x00:\x002\x005\x002\x00f\x008\x000\x004\x009\x00f\x008\x00b\x003\x001\x001\x00a\x00b\x001\x00c\x00f\x00a\x009\x005' @ 54 : 1 .. (end); will stop at (end)

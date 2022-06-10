@@ -1,0 +1,15 @@
+2022/02/24-18:24:55.303 286455 Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_quantrimang.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/24-18:24:55.303 286455 Recovering log #7
+2022/02/24-18:24:55.303 286455 Reusing old log /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_quantrimang.com_0.indexeddb.leveldb/000007.log 
+2022/02/24-18:24:57.367 19cc5d Level-0 table #12: started
+2022/02/24-18:24:57.371 19cc5d Level-0 table #12: 226 bytes OK
+2022/02/24-18:24:57.376 19cc5d Delete type=0 #7
+2022/02/24-18:24:57.376 19cc5d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/02/24-18:24:57.376 19cc5d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 50 : 1
+2022/02/24-18:24:57.376 19cc5d Compacting 1@1 + 1@2 files
+2022/02/24-18:24:57.379 19cc5d Generated table #13@1: 19 keys, 517 bytes
+2022/02/24-18:24:57.379 19cc5d Compacted 1@1 + 1@2 files => 517 bytes
+2022/02/24-18:24:57.384 19cc5d compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/24-18:24:57.384 19cc5d Delete type=2 #9
+2022/02/24-18:24:57.384 19cc5d Delete type=2 #12
+2022/02/24-18:24:57.385 19cc5d Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 50 : 1 .. (end); will stop at (end)

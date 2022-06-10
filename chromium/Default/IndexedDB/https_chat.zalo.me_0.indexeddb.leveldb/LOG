@@ -1,0 +1,6 @@
+2022/06/02-15:11:03.996 12ba45 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/02-15:11:03.996 12ba45 Recovering log #3
+2022/06/02-15:11:04.064 12ba45 Reusing old log /home/w/.config/chromium/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000003.log 
+2022/06/02-15:11:12.930 153db5 Level-0 table #5: started
+2022/06/02-15:11:12.964 153db5 Level-0 table #5: 1381337 bytes OK
+2022/06/02-15:11:12.970 153db5 Delete type=0 #3

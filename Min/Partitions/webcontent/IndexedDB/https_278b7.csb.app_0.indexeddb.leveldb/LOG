@@ -1,0 +1,6 @@
+2022/02/18-22:49:39.918 2064d Creating DB /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_278b7.csb.app_0.indexeddb.leveldb since it was missing.
+2022/02/18-22:49:39.931 2064d Reusing MANIFEST /home/w/.config/Min/Partitions/webcontent/IndexedDB/https_278b7.csb.app_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/18-23:24:18.570 1f46e6 Level-0 table #5: started
+2022/02/18-23:24:18.573 1f46e6 Level-0 table #5: 13756 bytes OK
+2022/02/18-23:24:18.578 1f46e6 Delete type=0 #3
+2022/02/18-23:24:18.578 1f46e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

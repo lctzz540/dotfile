@@ -1,0 +1,387 @@
+[2022-05-03 10:46:45.650] [info]  [AppEvents] App started
+[2022-05-03 10:46:46.070] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2022-05-03 10:46:46.245] [info]  [AppEvents] App ready
+[2022-05-03 10:46:46.246] [info]  [Cider] Application is Ready. Creating Window.
+[2022-05-03 10:46:47.642] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2022-05-03 10:46:47.684] [info]  WebSocketServer started on port: 26369
+[2022-05-03 10:46:47.698] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'updated',
+    version: '4.10.2391.0'
+  }
+}
+[2022-05-03 10:46:47.699] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    videoDecodeAcceleratorFlags: 0,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7313,
+      driverVendor: 'Nvidia',
+      driverVersion: '510.60.02',
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16027,
+      vendorId: 32902
+    }
+  ]
+}
+[2022-05-03 10:46:47.700] [info]  From here can you check for real changes, the initial scan has been completed.
+[2022-05-03 10:46:47.700] [info]  Cider client port: 9000
+[2022-05-03 10:46:47.703] [info]  Cider remote port: 6942
+[2022-05-03 10:46:47.706] [info]  remote broadcasted
+[2022-05-03 10:52:05.605] [info]  Example plugin stopped
+[2022-05-03 10:52:05.607] [warn]  Cider exited.
+[2022-05-03 10:52:10.065] [info]  [AppEvents] App started
+[2022-05-03 10:52:10.424] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2022-05-03 10:52:10.598] [info]  [AppEvents] App ready
+[2022-05-03 10:52:10.599] [info]  [Cider] Application is Ready. Creating Window.
+[2022-05-03 10:52:10.615] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2022-05-03 10:52:10.663] [info]  WebSocketServer started on port: 26369
+[2022-05-03 10:52:10.677] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2449.0'
+  }
+}
+[2022-05-03 10:52:10.679] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    videoDecodeAcceleratorFlags: 0,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7313,
+      driverVendor: 'Nvidia',
+      driverVersion: '510.60.02',
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16027,
+      vendorId: 32902
+    }
+  ]
+}
+[2022-05-03 10:52:10.680] [info]  From here can you check for real changes, the initial scan has been completed.
+[2022-05-03 10:52:10.680] [info]  Cider client port: 9000
+[2022-05-03 10:52:10.683] [info]  Cider remote port: 6942
+[2022-05-03 10:52:10.686] [info]  remote broadcasted
+[2022-05-04 00:56:55.329] [info]  Example plugin stopped
+[2022-05-04 00:56:55.356] [warn]  Cider exited.
+[2022-05-06 16:33:05.983] [info]  [AppEvents] App started
+[2022-05-06 16:33:06.443] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2022-05-06 16:33:06.705] [info]  [AppEvents] App ready
+[2022-05-06 16:33:06.706] [info]  [Cider] Application is Ready. Creating Window.
+[2022-05-06 16:33:06.726] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2022-05-06 16:33:06.786] [info]  WebSocketServer started on port: 26369
+[2022-05-06 16:33:06.805] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2449.0'
+  }
+}
+[2022-05-06 16:33:06.807] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    videoDecodeAcceleratorFlags: 0,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7313,
+      driverVendor: 'Nvidia',
+      driverVersion: '510.68.02',
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16027,
+      vendorId: 32902
+    }
+  ]
+}
+[2022-05-06 16:33:06.808] [info]  From here can you check for real changes, the initial scan has been completed.
+[2022-05-06 16:33:06.808] [info]  Cider client port: 9000
+[2022-05-06 16:33:06.811] [info]  Cider remote port: 6942
+[2022-05-06 16:33:06.814] [info]  remote broadcasted
+[2022-05-06 22:55:44.446] [info]  Example plugin stopped
+[2022-05-06 22:55:44.463] [warn]  Cider exited.
+[2022-05-06 22:55:44.576] [error] Error sending from webFrameMain:  Error: Render frame was disposed before WebFrameMain could be accessed
+    at EventEmitter.n._sendInternal (node:electron/js2c/browser_init:169:629)
+    at EventEmitter.b._sendInternal (node:electron/js2c/browser_init:165:2573)
+    at node:electron/js2c/browser_init:197:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (node:electron/js2c/browser_init:197:477)
+    at EventEmitter.b.executeJavaScript (node:electron/js2c/browser_init:165:3267)
+[2022-05-07 21:26:31.924] [info]  [AppEvents] App started
+[2022-05-07 21:26:32.397] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2022-05-07 21:26:32.687] [info]  [AppEvents] App ready
+[2022-05-07 21:26:32.688] [info]  [Cider] Application is Ready. Creating Window.
+[2022-05-07 21:26:32.709] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2022-05-07 21:26:32.784] [info]  WebSocketServer started on port: 26369
+[2022-05-07 21:26:32.803] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2449.0'
+  }
+}
+[2022-05-07 21:26:32.804] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    videoDecodeAcceleratorFlags: 0,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7313,
+      driverVendor: 'Nvidia',
+      driverVersion: '510.68.02',
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16027,
+      vendorId: 32902
+    }
+  ]
+}
+[2022-05-07 21:26:32.805] [info]  From here can you check for real changes, the initial scan has been completed.
+[2022-05-07 21:26:32.806] [info]  Cider client port: 9000
+[2022-05-07 21:26:32.808] [info]  Cider remote port: 6942
+[2022-05-07 21:26:32.811] [info]  remote broadcasted
+[2022-05-07 23:58:17.072] [info]  Example plugin stopped
+[2022-05-07 23:58:17.102] [warn]  Cider exited.
+[2022-05-08 17:36:42.194] [info]  [AppEvents] App started
+[2022-05-08 17:36:42.706] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2022-05-08 17:36:43.004] [info]  [AppEvents] App ready
+[2022-05-08 17:36:43.005] [info]  [Cider] Application is Ready. Creating Window.
+[2022-05-08 17:36:43.027] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2022-05-08 17:36:43.090] [info]  WebSocketServer started on port: 26369
+[2022-05-08 17:36:43.110] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2449.0'
+  }
+}
+[2022-05-08 17:36:43.111] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    videoDecodeAcceleratorFlags: 0,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7313,
+      driverVendor: 'Nvidia',
+      driverVersion: '510.68.02',
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16027,
+      vendorId: 32902
+    }
+  ]
+}
+[2022-05-08 17:36:43.112] [info]  From here can you check for real changes, the initial scan has been completed.
+[2022-05-08 17:36:43.113] [info]  Cider client port: 9000
+[2022-05-08 17:36:43.116] [info]  Cider remote port: 6942
+[2022-05-08 17:36:43.118] [info]  remote broadcasted
+[2022-05-08 20:43:40.841] [info]  Example plugin stopped
+[2022-05-08 20:43:40.848] [info]  [mpris.js] Plugin error: Error: Cannot send message, stream is closed
+[2022-05-08 20:43:40.848] [warn]  Cider exited.
+[2022-05-08 20:43:40.917] [error] Error sending from webFrameMain:  Error: Render frame was disposed before WebFrameMain could be accessed
+    at EventEmitter.n._sendInternal (node:electron/js2c/browser_init:169:629)
+    at EventEmitter.b._sendInternal (node:electron/js2c/browser_init:165:2573)
+    at node:electron/js2c/browser_init:197:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (node:electron/js2c/browser_init:197:477)
+    at EventEmitter.b.executeJavaScript (node:electron/js2c/browser_init:165:3267)
+[2022-06-09 21:37:59.862] [info]  [AppEvents] App started
+[2022-06-09 21:38:00.341] [info]  [PluginHandler] Loaded plugins: [
+  'chromecast.js',
+  'discordrpc.js',
+  'lastfm.js',
+  'menubar.js',
+  'mpris.js',
+  'raop.js',
+  'thumbar.js',
+  'webNowPlaying.js'
+]
+[2022-06-09 21:38:00.637] [info]  [AppEvents] App ready
+[2022-06-09 21:38:00.638] [info]  [Cider] Application is Ready. Creating Window.
+[2022-06-09 21:38:00.659] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2022-06-09 21:38:00.724] [info]  WebSocketServer started on port: 26369
+[2022-06-09 21:38:00.742] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    name: 'Widevine Content Decryption Module',
+    status: 'new',
+    version: '4.10.2449.0'
+  }
+}
+[2022-06-09 21:38:00.743] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    softwareRendering: false,
+    subpixelFontRendering: true,
+    videoDecodeAcceleratorFlags: 0,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7313,
+      driverVendor: 'Nvidia',
+      driverVersion: '510.68.02',
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16027,
+      vendorId: 32902
+    }
+  ]
+}
+[2022-06-09 21:38:00.744] [info]  From here can you check for real changes, the initial scan has been completed.
+[2022-06-09 21:38:00.745] [info]  Cider client port: 9000
+[2022-06-09 21:38:00.747] [info]  Cider remote port: 6942
+[2022-06-09 21:38:00.750] [info]  remote broadcasted
+[2022-06-10 23:31:40.877] [info]  Example plugin stopped
+[2022-06-10 23:31:40.887] [warn]  Cider exited.

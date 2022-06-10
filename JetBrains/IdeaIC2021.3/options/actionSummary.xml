@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ChooseRunConfiguration">
+      <i c="2" l="1644383461207" />
+    </e>
+    <e n="CompileDirty">
+      <i c="2" l="1644383381542" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="37" l="1644408150490" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1644408128999" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1644408067427" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1644408109143" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1644382646457" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1644407916214" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1644407892907" />
+    </e>
+  </component>
+</application>

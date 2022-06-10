@@ -1,0 +1,6 @@
+2022/05/28-13:56:01.827 94059 Creating DB /home/w/.config/chromium/Default/IndexedDB/https_community.anaconda.cloud_0.indexeddb.leveldb since it was missing.
+2022/05/28-13:56:01.837 94059 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_community.anaconda.cloud_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/28-13:57:59.941 a39b7 Level-0 table #5: started
+2022/05/28-13:57:59.944 a39b7 Level-0 table #5: 6270 bytes OK
+2022/05/28-13:57:59.949 a39b7 Delete type=0 #3
+2022/05/28-13:57:59.949 a39b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

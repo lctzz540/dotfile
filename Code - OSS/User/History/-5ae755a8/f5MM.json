@@ -1,0 +1,6 @@
+{
+    "jupyter.experiments.optInto": ["__NativeNotebookEditor__"],
+    "enable-proposed-api": ["ms-toolsai.jupyter"],
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay"
+}

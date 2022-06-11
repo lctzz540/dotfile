@@ -1,0 +1,14 @@
+[2022-06-11 20:45:33.912] [exthost] [info] Extension host with pid 6342 started
+[2022-06-11 20:45:33.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-11 20:45:33.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-11 20:45:33.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-11 20:45:34.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-11 20:45:34.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-11 20:45:34.125] [exthost] [info] Eager extensions activated
+[2022-06-11 20:45:34.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-11 20:45:34.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-11 20:45:34.181] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+[2022-06-11 20:45:34.318] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+[2022-06-11 20:45:34.718] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-11 20:46:02.798] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-11 20:46:02.806] [exthost] [info] Extension host with pid 6342 exiting with code 0

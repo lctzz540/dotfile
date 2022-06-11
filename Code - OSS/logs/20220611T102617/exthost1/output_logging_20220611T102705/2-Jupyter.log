@@ -1,0 +1,133 @@
+Code - OSS (1.67.2, undefined, desktop)
+Jupyter Extension Version: 2022.5.1001290443.
+Python Extension not installed.
+Workspace folder /home/w/Documents/Test
+info 10:35:46.763: ZMQ install verified.
+error 10:35:47.118: Failure during activation. [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookEditor.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookEditor.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:81:64186)
+	at Object.get onDidChangeVisibleNotebookEditors [as onDidChangeVisibleNotebookEditors] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:97:43896)
+	at new l (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:736536)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939177)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at e.dynamicValue (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2946777)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940604
+	at c (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939620)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940544
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940033
+	at Array.map (<anonymous>)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940005
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at a.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:1022764)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:4812935
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+error 10:35:47.130: sendStartupTelemetry() failed. [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookEditor.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookEditor.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:81:64186)
+	at Object.get onDidChangeVisibleNotebookEditors [as onDidChangeVisibleNotebookEditors] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:97:43896)
+	at new l (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:736536)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939177)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at e.dynamicValue (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2946777)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940604
+	at c (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939620)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940544
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940033
+	at Array.map (<anonymous>)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940005
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at a.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:1022764)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:4812935
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+error 10:35:47.131: extension activation failed [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookEditor.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookEditor.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:81:64186)
+	at Object.get onDidChangeVisibleNotebookEditors [as onDidChangeVisibleNotebookEditors] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:97:43896)
+	at new l (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:736536)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939177)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at e.dynamicValue (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2946777)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940604
+	at c (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939620)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940544
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940033
+	at Array.map (<anonymous>)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940005
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at a.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:1022764)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:4812935
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+error 10:35:47.134: Failed to active the Jupyter Extension [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookEditor.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookEditor.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:81:64186)
+	at Object.get onDidChangeVisibleNotebookEditors [as onDidChangeVisibleNotebookEditors] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:97:43896)
+	at new l (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:736536)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939177)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at e.dynamicValue (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2946777)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940604
+	at c (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2939620)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940544
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940033
+	at Array.map (<anonymous>)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2940005
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2938951)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941115
+	at Object.t.resolve (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2941378)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924791
+	at e._get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2924557)
+	at e.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:2923200)
+	at a.get (/home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:1022764)
+	at /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443/out/extension.node.js:2:4812935
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]

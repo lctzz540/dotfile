@@ -1,0 +1,8 @@
+[2022-06-11 10:39:40.152] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-11 10:39:40.228] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-06-11 10:39:40.308] [main] [info] ExtensionHostStarterWorker created
+[2022-06-11 10:39:42.023] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-11 10:39:42.207] [main] [info] Starting extension host with pid 54522 (fork() took 50 ms).
+[2022-06-11 10:39:42.207] [main] [info] ExtensionHostStarterWorker.start() took 51 ms.
+[2022-06-11 10:40:08.047] [main] [info] Waiting for extension host with pid 54522 to exit.
+[2022-06-11 10:40:08.047] [main] [info] Extension host with pid 54522 exited with code: 0, signal: null.

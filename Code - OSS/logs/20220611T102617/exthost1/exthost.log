@@ -1,0 +1,29 @@
+[2022-06-11 10:26:21.011] [exthost] [info] Extension host with pid 16189 started
+[2022-06-11 10:26:21.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-11 10:26:21.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-11 10:26:21.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-11 10:26:21.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-11 10:26:21.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-11 10:26:21.287] [exthost] [info] Eager extensions activated
+[2022-06-11 10:26:21.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-11 10:26:21.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-11 10:26:27.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-11 10:26:27.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-11 10:26:28.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-11 10:27:02.494] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-11 10:27:02.506] [exthost] [info] Extension host with pid 16189 exiting with code 0
+[2022-06-11 10:27:05.161] [exthost] [info] Extension host with pid 16299 started
+[2022-06-11 10:27:05.162] [exthost] [info] Skipping acquiring lock for /home/w/.config/Code - OSS/User/workspaceStorage/c66bd96f5eb5d6f53f21823ab4933427.
+[2022-06-11 10:27:05.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-11 10:27:05.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-11 10:27:05.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-11 10:27:05.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-11 10:27:05.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-11 10:27:05.464] [exthost] [info] Eager extensions activated
+[2022-06-11 10:27:05.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-11 10:27:05.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-11 10:27:08.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-11 10:35:46.207] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+[2022-06-11 10:35:46.211] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-11 10:36:52.614] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-11 10:36:52.635] [exthost] [info] Extension host with pid 16299 exiting with code 0

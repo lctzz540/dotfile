@@ -1,0 +1,22 @@
+[2022-06-11T03:27:08.619Z] Validating found git in: git
+[2022-06-11T03:27:08.631Z] Using git 2.36.1 from git
+[2022-06-11T03:27:08.643Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-11T03:27:08.643Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-11T03:27:08.658Z] > git rev-parse --show-toplevel [5ms]
+[2022-06-11T03:27:08.658Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-11T03:27:08.665Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-11T03:27:08.665Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-11T03:27:08.709Z] > git rev-parse --show-toplevel [39ms]
+[2022-06-11T03:27:08.727Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-06-11T03:27:08.741Z] Open repository: /home/w/Documents/Test/pyscript
+[2022-06-11T03:27:08.756Z] > git rev-parse --show-toplevel [0ms]
+[2022-06-11T03:27:08.756Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-11T03:27:08.800Z] > git status -z -uall [50ms]
+[2022-06-11T03:27:08.807Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-11T03:27:08.816Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-06-11T03:27:08.829Z] > git remote --verbose [2ms]
+[2022-06-11T03:27:08.830Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-11T03:27:08.843Z] > git config --get commit.template [4ms]
+[2022-06-11T03:27:09.288Z] > git check-ignore -v -z --stdin [4ms]
+[2022-06-11T03:35:45.967Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-11T03:35:45.967Z] fatal: not a git repository (or any of the parent directories): .git

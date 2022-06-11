@@ -1,2 +1,3 @@
-2022/05/29-13:47:40.878 23f8a Creating DB /home/w/.config/chromium/Default/IndexedDB/https_cellphones.com.vn_0.indexeddb.leveldb since it was missing.
-2022/05/29-13:47:40.886 23f8a Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_cellphones.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/11-13:00:04.483 432 Reusing MANIFEST /home/w/.config/chromium/Default/IndexedDB/https_cellphones.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/11-13:00:04.483 432 Recovering log #3
+2022/06/11-13:00:04.484 432 Reusing old log /home/w/.config/chromium/Default/IndexedDB/https_cellphones.com.vn_0.indexeddb.leveldb/000003.log 

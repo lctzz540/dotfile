@@ -1,0 +1,24 @@
+[2022-06-11 10:26:21.378] [sharedprocess] [info] Starting worker process with pid 16232 (type: fileWatcher, window: 1).
+[2022-06-11 10:27:02.514] [sharedprocess] [info] Worker process with pid 16232 terminated normally (type: fileWatcher, window: 1).
+[2022-06-11 10:27:04.327] [sharedprocess] [info] Starting worker process with pid 16300 (type: fileWatcher, window: 1).
+[2022-06-11 10:34:31.581] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-11 10:34:33.050] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-11 10:34:33.864] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-06-11 10:34:34.879] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-06-11 10:34:36.194] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-06-11 10:34:36.194] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-06-11 10:34:38.443] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/w/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-11 10:34:38.485] [sharedprocess] [info] Extracted extension to /home/w/.vscode-oss/extensions/.bfaed98e-fbb5-480f-b8c1-36511aa400eb: ms-toolsai.jupyter-keymap
+[2022-06-11 10:34:38.491] [sharedprocess] [info] Renamed to /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-11 10:34:38.493] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-06-11 10:34:55.083] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/w/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.6
+[2022-06-11 10:34:55.351] [sharedprocess] [info] Extracted extension to /home/w/.vscode-oss/extensions/.456b19bd-aca8-4dee-b33c-e1b46d891cff: ms-toolsai.jupyter-renderers
+[2022-06-11 10:34:55.358] [sharedprocess] [info] Renamed to /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-06-11 10:34:55.361] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-06-11 10:35:44.543] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/w/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001290443
+[2022-06-11 10:35:45.333] [sharedprocess] [info] Extracted extension to /home/w/.vscode-oss/extensions/.967e802c-357e-4c3d-9e02-56492fe3bfe6: ms-toolsai.jupyter
+[2022-06-11 10:35:45.343] [sharedprocess] [info] Renamed to /home/w/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001290443
+[2022-06-11 10:35:45.358] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-11 10:35:45.370] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-06-11 10:35:45.370] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-06-11 10:35:45.370] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter

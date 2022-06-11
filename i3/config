@@ -410,4 +410,5 @@ mode "$mode_gaps_outer" {
 set $statuscmd i3status
 exec './.fehbg'
 exec './dual.sh'
+exec '~/.config/polybar/launch.sh'
 for_window [class="com.example.jetplan_javafx.HelloApplication"] floating enable

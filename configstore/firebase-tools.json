@@ -1,0 +1,40 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1667404845333
+	},
+	"emulator-analytics-clientId": "9f606a15-39c9-478b-98b7-a263b152cf49",
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"analytics-uuid": "a54e3025-c590-4fca-a708-02772e8fc748",
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "114980030632981189033",
+		"email": "lctzz540@gmail.com",
+		"email_verified": true,
+		"at_hash": "a95Vy-lwPqvaqFhPSvrGkw",
+		"iat": 1667445194,
+		"exp": 1667448794
+	},
+	"tokens": {
+		"expires_at": 1667448793527,
+		"access_token": "ya29.a0Aa4xrXOnk3SMtqNKP6pAs5VDXDSCwI92lDvBl335ZIMXStKamNXMMowE8Z_UU6ZLcqORZYKWahAPSrteR5RX7VsU9q2BRDRx5iW1D3IqqkG9Io0zeR5BkUPBe-GAh85S5aT1qutU2Gob-o0x7-URx-RDYA1X1xyaw2ADaCgYKARMSARESFQEjDvL9AvK8Ol5WreLPj4NbTMoj4Q0171",
+		"expires_in": 3599,
+		"refresh_token": "1//0ejE9QivGDmcRCgYIARAAGA4SNwF-L9Irue4DNaCMK12dfeIVyvWFBUJx6cGnfrvG8e7-252iu1qfuR-cmjMxMci6SbJyPL4ZjU4",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImY0NTEzNDVmYWQwODEwMWJmYjM0NWNmNjQyYTJkYTkyNjdiOWViZWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE0OTgwMDMwNjMyOTgxMTg5MDMzIiwiZW1haWwiOiJsY3R6ejU0MEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImE5NVZ5LWx3UHF2YXFGaFBTdnJHa3ciLCJpYXQiOjE2Njc0NDUxOTQsImV4cCI6MTY2NzQ0ODc5NH0.EifFVBfblVFXK0QOhTZuoqla9vcaLMp53HcH1rDyx2xbf0j4gQzSd2NgGIWS21CV5Gvm7JH2UH5rjCYs1ZXa4f_7G3I48LLCff9XmvNvjYw_8LSYeyeogmrgI4epD1tbHfE0gmHaiWOR2Kc55vsesx7BGEeKSax5zsxVdQZAlwb0j5ZSy24bMxXE28A_8NlUTDuYSlu0Gx46I2Ht5mDaGkOIX-4Eei7I5CmEHYraziTe907wL1ol3kguGWKWPjyPL8UwjJt66sIiH4ZFXkZjdf2-OqgTlmSlJe44phsMHY09CCHZgNTCSTXKxbwQCuLeDwRHvPFi1heE9w07HQ79mA"
+	},
+	"activeProjects": {
+		"/Users/thangle/Documents/test/backend": "lctdemo"
+	}
+}
